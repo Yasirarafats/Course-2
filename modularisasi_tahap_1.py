@@ -2,7 +2,6 @@
 MODULARISASI DASAR MENGHITUNG LUAS SEGITIGA
 luas segitiga = alas*tinggi/2
 """
-import a as a
 
 print('perhitungan sederhana luas segitiga tanpa fungsi')
 alas = 24
